@@ -6,7 +6,7 @@ render (){
 
     return (
         <>
-		<div class ="div-1">
+		<div className ="div-1">
         <ul id="ul-1">
             <li>Trang Chủ</li>
             <li>Giao Dịch</li>

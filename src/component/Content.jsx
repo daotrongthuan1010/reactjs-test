@@ -2,7 +2,7 @@ import React from "react";
 import "../style.css"
 
 class Content  extends React.Component{
-       
+
       render(){
         return (
           <div className="container">
@@ -28,6 +28,3 @@ class Content  extends React.Component{
         };
         }
       export default Content;
-      
-      
-    
