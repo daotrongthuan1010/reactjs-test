@@ -4,6 +4,7 @@ import "../style.css"
 class Show extends React.Component{
 
   
+  
     constructor(props) {
         super(props);
         this.state = {
